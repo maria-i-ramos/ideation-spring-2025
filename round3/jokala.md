@@ -2,7 +2,7 @@
 
 ## Authors  
 - Ioannis Kalaitzidis (jokala)
-- Maria Ramos ()
+- Maria Ramos (maria-i-ramos)
 - Claire Zhao ()
 - Chaelsey Park (chaelsey)
 
